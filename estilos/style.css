@@ -55,7 +55,7 @@ section#login > div#formulario{
     padding: 10px;
 }
 
-#divformulario > h1{
+div#formulario > h1{
     text-align: center;
     margin-bottom: 10px;
 }
@@ -118,7 +118,7 @@ form > input[type=subtmit]:hover{
     background-color: #2d6462;
 }
 
-form >  a.botao{
+form > a.botao{
     display: block;
     text-align: center;
     font-size: 1em;
